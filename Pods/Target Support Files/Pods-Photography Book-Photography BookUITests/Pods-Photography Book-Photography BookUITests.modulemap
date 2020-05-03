@@ -1,0 +1,6 @@
+framework module Pods_Photography_Book_Photography_BookUITests {
+  umbrella header "Pods-Photography Book-Photography BookUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
