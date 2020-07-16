@@ -4,8 +4,9 @@ iOS Application desgined to connect local photographers together through events.
 # Screenshots
 
 # How to run
-Clone the repo and run .xcworkspace file with XCode. 
-
+Clone the repo and run .xcworkspace file after unzipping with XCode.
+if there are any issues while running it might be because Firebase
+access rules.
 # Technologies
 1. Swift
 2. Firebase
