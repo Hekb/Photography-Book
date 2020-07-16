@@ -3,3 +3,9 @@ iOS Application desgined to connect local photographers together through events.
 
 # Screenshots
 
+# Technologies
+1. Swift
+2. Firebase
+3. Podfiles
+4. Xcode
+5. XIB
