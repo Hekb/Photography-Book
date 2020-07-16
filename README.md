@@ -4,7 +4,7 @@ iOS Application desgined to connect local photographers together through events.
 # Screenshots
 
 # How to run
-Clone the repo and .xcworkspace file with XCode. 
+Clone the repo and run .xcworkspace file with XCode. 
 
 # Technologies
 1. Swift
