@@ -10,5 +10,6 @@ Clone the repo and run .xcworkspace file with XCode.
 1. Swift
 2. Firebase
 3. Podfiles
-4. Xcode
-5. XIB
+4. Apple Maps
+5. Xcode
+6. XIB
